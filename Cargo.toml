@@ -1,0 +1,9 @@
+[package]
+name = "nth_fibonacci"
+author = "Jason Cavinder"
+version = "0.1.0"
+edition = "2021"
+description = "A simple program to calculate the nth fibonacci number"
+
+[dependencies]
+num-format = "0.4.4"
