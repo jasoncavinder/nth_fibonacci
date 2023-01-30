@@ -53,7 +53,7 @@
 
 ## About The Project
 
-[Convert Temp Screen Shot][product-screenshot]
+![n-th Fibonacci Screenshot][product-screenshot]
 
 I'm learning Rust by working through ["The Book"](https://doc.rust-lang.org/stable/book/) and building simple projects to practice the concepts discussed in various chapters. This is one of those projects.
 
